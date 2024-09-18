@@ -8,9 +8,9 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>[https://tinyurl.com/repodragonpt]</code> (Dar o nome de "dragon").</li>
+    <li>O endereço para a fonte é <code>[https://tinyurl.com/repodragonpt]</code> (Dar o nome de "repodragonpt").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "dragon", e instalar <a href="repo.dragon.zip">repo.dragon.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repodragonpt", e instalar <a href="repo.dragon.zip">repo.dragon.zip</a>.</li>
     -----------------------
     <li>Repositório Instalado!</li>
     <li>KODI 19, 20, 21</li>
