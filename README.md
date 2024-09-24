@@ -12,7 +12,6 @@ Instruções para a adição no gestor:
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repodragonpt", e instalar <a href="repo.dragon.zip">repo.dragon.zip</a>.</li>
     <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
-    <li>Selecionar o "repodragonpt"</li>
     -----------------------
     <li>Selecionar o "repodragonpt"</li>
     <li>Repositório Instalado!</li>
